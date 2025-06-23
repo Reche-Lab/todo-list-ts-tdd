@@ -1,2 +1,2 @@
 # todo-list-ts-tdd
-Projeto de Gerenciador de Tarefas com TypeScript e TDD.
+Todo list project using TypeScript and TDD.
